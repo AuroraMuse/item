@@ -1,0 +1,5 @@
+﻿  contact.c
+  text.c
+D:\C语言学习\项目\Contact\Contact\text.c(16,3): warning C4550: 表达式计算为缺少参数列表的函数
+D:\C语言学习\项目\Contact\Contact\text.c(18,1): error C2059: 语法错误:“}”
+  正在生成代码...
